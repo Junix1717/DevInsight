@@ -1,0 +1,28 @@
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos de VS Code
+.vscode/
+
+# Modelos entrenados
+*.joblib
+*.pkl
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,20 @@
+
+error_message,code_snippet,label
+"name 'x' is not defined","print(x)",NameError
+"name 'usuario' is not defined","print(usuario)",NameError
+"name 'resultado' is not defined","print(resultado)",NameError
+"invalid syntax","print('Hola'",SyntaxError
+"unexpected EOF while parsing","x = (5 + 3",SyntaxError
+"expected ':'","if x > 5",SyntaxError
+"unsupported operand type(s) for +: 'int' and 'str'","5 + 'hola'",TypeError
+"'str' object is not callable","nombre = 'Ana'; nombre()",TypeError
+"can only concatenate str (not int) to str","'Edad: ' + 20",TypeError
+"No module named 'numpy'","import numpy",ImportError
+"No module named 'pandas'","import pandas",ImportError
+"cannot import name 'sqrt' from 'maths'","from maths import sqrt",ImportError
+"'str' object has no attribute 'append'","'hola'.append('x')",AttributeError
+"'int' object has no attribute 'upper'","numero = 5; numero.upper()",AttributeError
+"'list' object has no attribute 'split'","[1,2,3].split()",AttributeError
+"division by zero","10 / 0",Other
+"list index out of range","lista = [1,2]; lista[5]",Other
+"'clave'","diccionario = {}; diccionario['clave']",Other
