@@ -17,21 +17,300 @@ cannot import name 'sqrt' from 'maths',from maths import sqrt,ImportError
 division by zero,10 / 0,Other
 list index out of range,"lista = [1,2]; lista[5]",Other
 'clave',diccionario = {}; diccionario['clave'],Other
-name 'contador' is not defined,print(contador),NameError
-name 'precio' is not defined,print(precio),NameError
-name 'total' is not defined,print(total),NameError
-name 'nombre' is not defined,print(nombre),NameError
-name 'edad' is not defined,print(edad),NameError
-name 'producto' is not defined,print(producto),NameError
-name 'cantidad' is not defined,print(cantidad),NameError
-name 'promedio' is not defined,print(promedio),NameError
-'str' object has no attribute 'append',obj.append(),AttributeError
-'int' object has no attribute 'upper',obj.upper(),AttributeError
-'list' object has no attribute 'split',obj.split(),AttributeError
-'tuple' object has no attribute 'add',obj.add(),AttributeError
-'float' object has no attribute 'lower',obj.lower(),AttributeError
-'dict' object has no attribute 'push',obj.push(),AttributeError
-'set' object has no attribute 'sort',obj.sort(),AttributeError
-'bool' object has no attribute 'strip',obj.strip(),AttributeError
-'list' object has no attribute 'encode',obj.encode(),AttributeError
-'str' object has no attribute 'pop',obj.pop(),AttributeError
+name 'total' is not defined,,NameError
+name 'numero' is not defined,,NameError
+name 'contador' is not defined,,NameError
+name 'indice' is not defined,,NameError
+name 'producto' is not defined. Did you mean: 'pedido'?,,NameError
+name 'usuario' is not defined. Did you mean: 'nombre'?,,NameError
+name 'datos' is not defined. Did you mean: 'cantidad'?,,NameError
+name 'datos' is not defined,,NameError
+name 'precio' is not defined. Did you mean: 'archivo'?,,NameError
+name 'resultado' is not defined. Did you mean: 'pedido'?,,NameError
+name 'config' is not defined,,NameError
+name 'mensaje' is not defined. Did you mean: 'archivo'?,,NameError
+name 'promedio' is not defined,,NameError
+name 'nombre' is not defined. Did you mean: 'archivo'?,,NameError
+name 'cantidad' is not defined,,NameError
+name 'config' is not defined. Did you mean: 'cantidad'?,,NameError
+name 'edad' is not defined,,NameError
+name 'edad' is not defined. Did you mean: 'lista'?,,NameError
+name 'total' is not defined. Did you mean: 'cantidad'?,,NameError
+name 'numero' is not defined. Did you mean: 'config'?,,NameError
+name 'cliente' is not defined,,NameError
+name 'config' is not defined. Did you mean: 'mensaje'?,,NameError
+name 'indice' is not defined. Did you mean: 'usuario'?,,NameError
+name 'precio' is not defined. Did you mean: 'promedio'?,,NameError
+name 'pedido' is not defined,,NameError
+name 'valor' is not defined. Did you mean: 'nombre'?,,NameError
+name 'lista' is not defined. Did you mean: 'usuario'?,,NameError
+name 'promedio' is not defined. Did you mean: 'producto'?,,NameError
+name 'contador' is not defined. Did you mean: 'indice'?,,NameError
+name 'edad' is not defined. Did you mean: 'indice'?,,NameError
+name 'pedido' is not defined. Did you mean: 'valor'?,,NameError
+name 'producto' is not defined,,NameError
+name 'usuario' is not defined. Did you mean: 'numero'?,,NameError
+name 'lista' is not defined,,NameError
+name 'precio' is not defined,,NameError
+name 'cliente' is not defined. Did you mean: 'pedido'?,,NameError
+name 'precio' is not defined. Did you mean: 'producto'?,,NameError
+name 'nombre' is not defined. Did you mean: 'cantidad'?,,NameError
+name 'lista' is not defined. Did you mean: 'edad'?,,NameError
+name 'nombre' is not defined,,NameError
+name 'cantidad' is not defined. Did you mean: 'pedido'?,,NameError
+name 'indice' is not defined. Did you mean: 'lista'?,,NameError
+name 'valor' is not defined. Did you mean: 'valor'?,,NameError
+name 'valor' is not defined,,NameError
+name 'mensaje' is not defined,,NameError
+name 'cantidad' is not defined. Did you mean: 'edad'?,,NameError
+name 'producto' is not defined. Did you mean: 'cantidad'?,,NameError
+name 'total' is not defined. Did you mean: 'archivo'?,,NameError
+invalid syntax near 'archivo',,SyntaxError
+expected ':' after 'indice',,SyntaxError
+invalid syntax at line 86,,SyntaxError
+invalid syntax at line 18,,SyntaxError
+expected ':' after 'precio',,SyntaxError
+invalid syntax at line 37,,SyntaxError
+invalid syntax at line 27,,SyntaxError
+invalid syntax at line 63,,SyntaxError
+expected ':' after 'resultado',,SyntaxError
+expected ':' after 'cantidad',,SyntaxError
+expected ':' after 'total',,SyntaxError
+invalid syntax at line 91,,SyntaxError
+invalid syntax near 'total',,SyntaxError
+expected ':' after 'numero',,SyntaxError
+invalid syntax at line 46,,SyntaxError
+invalid syntax at line 96,,SyntaxError
+invalid syntax near 'producto',,SyntaxError
+expected ':' after 'usuario',,SyntaxError
+expected ':' after 'cliente',,SyntaxError
+invalid syntax near 'precio',,SyntaxError
+expected ':' after 'producto',,SyntaxError
+expected ':' after 'promedio',,SyntaxError
+invalid syntax near 'edad',,SyntaxError
+expected ':' after 'contador',,SyntaxError
+invalid syntax at line 87,,SyntaxError
+invalid syntax at line 15,,SyntaxError
+expected ':' after 'nombre',,SyntaxError
+expected ':' after 'datos',,SyntaxError
+invalid syntax at line 74,,SyntaxError
+invalid syntax near 'cantidad',,SyntaxError
+invalid syntax at line 56,,SyntaxError
+invalid syntax near 'datos',,SyntaxError
+invalid syntax at line 65,,SyntaxError
+invalid syntax at line 17,,SyntaxError
+invalid syntax near 'cliente',,SyntaxError
+invalid syntax at line 73,,SyntaxError
+expected ':' after 'config',,SyntaxError
+invalid syntax at line 60,,SyntaxError
+expected ':' after 'pedido',,SyntaxError
+invalid syntax at line 12,,SyntaxError
+invalid syntax near 'promedio',,SyntaxError
+invalid syntax near 'usuario',,SyntaxError
+expected ':' after 'mensaje',,SyntaxError
+invalid syntax at line 52,,SyntaxError
+invalid syntax at line 7,,SyntaxError
+invalid syntax at line 59,,SyntaxError
+invalid syntax near 'pedido',,SyntaxError
+invalid syntax at line 79,,SyntaxError
+invalid syntax at line 71,,SyntaxError
+invalid syntax at line 36,,SyntaxError
+'contador' object is not callable,,TypeError
+'datos' object is not callable,,TypeError
+unsupported operand type(s) for +: 'total' and 'total',,TypeError
+'total' object is not callable,,TypeError
+'cliente' object is not callable,,TypeError
+'config' object is not callable,,TypeError
+unsupported operand type(s) for +: 'numero' and 'config',,TypeError
+unsupported operand type(s) for +: 'archivo' and 'promedio',,TypeError
+can only concatenate str (not 'indice') to str,,TypeError
+'producto' object is not callable,,TypeError
+'usuario' object is not callable,,TypeError
+can only concatenate str (not 'config') to str,,TypeError
+unsupported operand type(s) for +: 'mensaje' and 'indice',,TypeError
+'numero' object is not callable,,TypeError
+unsupported operand type(s) for +: 'contador' and 'cliente',,TypeError
+'nombre' object is not callable,,TypeError
+'cantidad' object is not callable,,TypeError
+unsupported operand type(s) for +: 'indice' and 'resultado',,TypeError
+unsupported operand type(s) for +: 'contador' and 'resultado',,TypeError
+unsupported operand type(s) for +: 'producto' and 'edad',,TypeError
+can only concatenate str (not 'total') to str,,TypeError
+'precio' object is not callable,,TypeError
+can only concatenate str (not 'mensaje') to str,,TypeError
+unsupported operand type(s) for +: 'promedio' and 'precio',,TypeError
+unsupported operand type(s) for +: 'promedio' and 'numero',,TypeError
+can only concatenate str (not 'producto') to str,,TypeError
+'mensaje' object is not callable,,TypeError
+unsupported operand type(s) for +: 'archivo' and 'indice',,TypeError
+can only concatenate str (not 'archivo') to str,,TypeError
+can only concatenate str (not 'datos') to str,,TypeError
+can only concatenate str (not 'pedido') to str,,TypeError
+unsupported operand type(s) for +: 'valor' and 'cantidad',,TypeError
+can only concatenate str (not 'lista') to str,,TypeError
+can only concatenate str (not 'numero') to str,,TypeError
+unsupported operand type(s) for +: 'contador' and 'cantidad',,TypeError
+unsupported operand type(s) for +: 'pedido' and 'numero',,TypeError
+unsupported operand type(s) for +: 'archivo' and 'cantidad',,TypeError
+unsupported operand type(s) for +: 'valor' and 'edad',,TypeError
+unsupported operand type(s) for +: 'cliente' and 'lista',,TypeError
+unsupported operand type(s) for +: 'lista' and 'lista',,TypeError
+unsupported operand type(s) for +: 'contador' and 'promedio',,TypeError
+unsupported operand type(s) for +: 'precio' and 'edad',,TypeError
+unsupported operand type(s) for +: 'indice' and 'nombre',,TypeError
+unsupported operand type(s) for +: 'lista' and 'cantidad',,TypeError
+can only concatenate str (not 'valor') to str,,TypeError
+unsupported operand type(s) for +: 'edad' and 'promedio',,TypeError
+unsupported operand type(s) for +: 'resultado' and 'indice',,TypeError
+unsupported operand type(s) for +: 'numero' and 'promedio',,TypeError
+'pedido' object is not callable,,TypeError
+unsupported operand type(s) for +: 'cantidad' and 'lista',,TypeError
+No module named 'config',,ImportError
+No module named 'total',,ImportError
+cannot import name 'contador' from 'producto',,ImportError
+cannot import name 'mensaje' from 'mensaje',,ImportError
+No module named 'valor',,ImportError
+cannot import name 'promedio' from 'numero',,ImportError
+cannot import name 'numero' from 'mensaje',,ImportError
+No module named 'edad',,ImportError
+No module named 'nombre',,ImportError
+cannot import name 'mensaje' from 'lista',,ImportError
+No module named 'producto',,ImportError
+cannot import name 'pedido' from 'contador',,ImportError
+No module named 'cantidad',,ImportError
+No module named 'cliente',,ImportError
+No module named 'resultado',,ImportError
+cannot import name 'pedido' from 'precio',,ImportError
+cannot import name 'config' from 'cantidad',,ImportError
+cannot import name 'usuario' from 'contador',,ImportError
+No module named 'lista',,ImportError
+cannot import name 'cantidad' from 'nombre',,ImportError
+cannot import name 'lista' from 'contador',,ImportError
+cannot import name 'cliente' from 'datos',,ImportError
+cannot import name 'promedio' from 'config',,ImportError
+No module named 'pedido',,ImportError
+cannot import name 'datos' from 'precio',,ImportError
+cannot import name 'valor' from 'usuario',,ImportError
+cannot import name 'cliente' from 'resultado',,ImportError
+cannot import name 'resultado' from 'edad',,ImportError
+No module named 'promedio',,ImportError
+cannot import name 'precio' from 'usuario',,ImportError
+No module named 'indice',,ImportError
+No module named 'precio',,ImportError
+cannot import name 'cliente' from 'lista',,ImportError
+cannot import name 'edad' from 'mensaje',,ImportError
+No module named 'contador',,ImportError
+cannot import name 'datos' from 'valor',,ImportError
+cannot import name 'total' from 'pedido',,ImportError
+cannot import name 'archivo' from 'datos',,ImportError
+cannot import name 'pedido' from 'datos',,ImportError
+No module named 'numero',,ImportError
+cannot import name 'resultado' from 'datos',,ImportError
+cannot import name 'config' from 'config',,ImportError
+cannot import name 'precio' from 'pedido',,ImportError
+cannot import name 'usuario' from 'total',,ImportError
+cannot import name 'mensaje' from 'config',,ImportError
+No module named 'datos',,ImportError
+cannot import name 'lista' from 'indice',,ImportError
+cannot import name 'usuario' from 'resultado',,ImportError
+cannot import name 'total' from 'producto',,ImportError
+cannot import name 'numero' from 'nombre',,ImportError
+'contador' object has no attribute 'mensaje',,AttributeError
+'lista' object has no attribute 'numero',,AttributeError
+'pedido' object has no attribute 'cantidad',,AttributeError
+type object 'usuario' has no attribute 'pedido',,AttributeError
+'contador' object has no attribute 'pedido',,AttributeError
+type object 'cliente' has no attribute 'cantidad',,AttributeError
+type object 'edad' has no attribute 'config',,AttributeError
+'producto' object has no attribute 'config',,AttributeError
+type object 'numero' has no attribute 'promedio',,AttributeError
+type object 'usuario' has no attribute 'config',,AttributeError
+'numero' object has no attribute 'resultado',,AttributeError
+type object 'promedio' has no attribute 'producto',,AttributeError
+type object 'producto' has no attribute 'edad',,AttributeError
+type object 'total' has no attribute 'precio',,AttributeError
+'promedio' object has no attribute 'pedido',,AttributeError
+type object 'total' has no attribute 'contador',,AttributeError
+type object 'cliente' has no attribute 'nombre',,AttributeError
+'indice' object has no attribute 'archivo',,AttributeError
+type object 'nombre' has no attribute 'cantidad',,AttributeError
+type object 'datos' has no attribute 'precio',,AttributeError
+'total' object has no attribute 'producto',,AttributeError
+type object 'indice' has no attribute 'archivo',,AttributeError
+type object 'usuario' has no attribute 'cantidad',,AttributeError
+'pedido' object has no attribute 'archivo',,AttributeError
+type object 'numero' has no attribute 'config',,AttributeError
+type object 'precio' has no attribute 'producto',,AttributeError
+'mensaje' object has no attribute 'indice',,AttributeError
+type object 'cliente' has no attribute 'precio',,AttributeError
+'resultado' object has no attribute 'promedio',,AttributeError
+'precio' object has no attribute 'producto',,AttributeError
+'config' object has no attribute 'pedido',,AttributeError
+type object 'numero' has no attribute 'total',,AttributeError
+'lista' object has no attribute 'mensaje',,AttributeError
+type object 'resultado' has no attribute 'archivo',,AttributeError
+type object 'pedido' has no attribute 'producto',,AttributeError
+'archivo' object has no attribute 'indice',,AttributeError
+type object 'resultado' has no attribute 'config',,AttributeError
+'precio' object has no attribute 'pedido',,AttributeError
+'mensaje' object has no attribute 'usuario',,AttributeError
+type object 'producto' has no attribute 'total',,AttributeError
+'contador' object has no attribute 'indice',,AttributeError
+'producto' object has no attribute 'datos',,AttributeError
+'total' object has no attribute 'indice',,AttributeError
+'precio' object has no attribute 'usuario',,AttributeError
+'archivo' object has no attribute 'producto',,AttributeError
+type object 'usuario' has no attribute 'nombre',,AttributeError
+'total' object has no attribute 'cliente',,AttributeError
+'contador' object has no attribute 'lista',,AttributeError
+type object 'valor' has no attribute 'numero',,AttributeError
+type object 'valor' has no attribute 'producto',,AttributeError
+ValueError: invalid literal 'precio',,Other
+ValueError: invalid literal 'contador',,Other
+list index out of range at position 36,,Other
+KeyError: 'config',,Other
+KeyError: 'pedido',,Other
+list index out of range at position 30,,Other
+ValueError: invalid literal 'datos',,Other
+KeyError: 'cantidad',,Other
+KeyError: 'total',,Other
+KeyError: 'precio',,Other
+ValueError: invalid literal 'resultado',,Other
+KeyError: 'archivo',,Other
+list index out of range at position 29,,Other
+ValueError: invalid literal 'indice',,Other
+list index out of range at position 44,,Other
+KeyError: 'usuario',,Other
+ValueError: invalid literal 'cliente',,Other
+list index out of range at position 93,,Other
+KeyError: 'numero',,Other
+ValueError: invalid literal 'lista',,Other
+ValueError: invalid literal 'cantidad',,Other
+KeyError: 'resultado',,Other
+list index out of range at position 38,,Other
+ValueError: invalid literal 'nombre',,Other
+list index out of range at position 86,,Other
+KeyError: 'contador',,Other
+ValueError: invalid literal 'usuario',,Other
+ValueError: invalid literal 'archivo',,Other
+ValueError: invalid literal 'valor',,Other
+KeyError: 'datos',,Other
+list index out of range at position 82,,Other
+list index out of range at position 98,,Other
+ValueError: invalid literal 'numero',,Other
+ValueError: invalid literal 'pedido',,Other
+list index out of range at position 61,,Other
+list index out of range at position 14,,Other
+list index out of range at position 91,,Other
+list index out of range at position 37,,Other
+KeyError: 'mensaje',,Other
+KeyError: 'promedio',,Other
+KeyError: 'lista',,Other
+ValueError: invalid literal 'total',,Other
+list index out of range at position 53,,Other
+KeyError: 'producto',,Other
+list index out of range at position 25,,Other
+list index out of range at position 83,,Other
+list index out of range at position 66,,Other
+list index out of range at position 48,,Other
+list index out of range at position 13,,Other
