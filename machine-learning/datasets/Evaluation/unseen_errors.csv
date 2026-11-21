@@ -1,0 +1,19 @@
+error_message,label
+"NameError: global name 'connection' is not defined",NameError
+"NameError: free variable 'counter' referenced before assignment in enclosing scope",NameError
+"NameError: name 'session_token' is not defined. Did you mean: 'session_tokens'?",NameError
+"SyntaxError: unterminated string literal (detected at line 12)",SyntaxError
+"SyntaxError: 'return' outside function",SyntaxError
+"IndentationError: unexpected indent",SyntaxError
+"TypeError: unhashable type: 'dict'",TypeError
+"TypeError: 'NoneType' object is not subscriptable",TypeError
+"TypeError: list indices must be integers or slices, not str",TypeError
+"ImportError: attempted relative import with no known parent package",ImportError
+"ModuleNotFoundError: No module named 'cryptography'",ImportError
+"ImportError: cannot import name 'settings' from partially initialized module 'config'",ImportError
+"AttributeError: module 'datetime' has no attribute 'utcnow'",AttributeError
+"AttributeError: 'generator' object has no attribute 'length'",AttributeError
+"AttributeError: type object 'Account' has no attribute 'balance'",AttributeError
+"FileNotFoundError: [Errno 2] No such file or directory: 'config.json'",Other
+"RecursionError: maximum recursion depth exceeded while calling a Python object",Other
+"PermissionError: [Errno 13] Permission denied: 'output.log'",Other
